@@ -1,0 +1,132 @@
+/*body {
+	padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px;
+	height:1000px;
+}*/
+
+.float0831{
+z-index:19999;
+}
+.float0831 {
+	position:fixed; top: 100px; right: 1px; _position:absolute;
+}
+.float0831 a {
+	color: #00a0e9;text-decoration:none;
+}
+.float0831 a:hover {
+	color: #ff8100; text-decoration:none;
+}
+.float0831 .floatL {
+	position: relative; width: 28px; float: left;
+}
+.float0831 .floatL a {
+	text-indent: -9999px; display: block; font-size: 0px;
+}
+.float0831 .floatR {
+	background: url(images/float_bg.gif);
+}
+.float0831 .tp {
+	background: url(images/float_bg.gif);
+}
+.float0831 .cn {
+	background: url(images/float_bg.gif);
+}
+.float0831 .floatR {
+	padding-bottom: 15px; width: 130px; background-repeat: no-repeat; background-position: -131px bottom; float: left;overflow: hidden;
+}
+.float0831 .tp {
+	background-repeat: no-repeat; background-position: 0% 0%; height: 10px;
+}
+.float0831 .cn {
+	background-repeat: repeat-y; background-position: -262px 0px;
+}
+.float0831 .cn h3 {
+	text-indent: -9999px; height: 36px; font-size: 0px;
+}
+.float0831 .cn ul {
+	padding:0 14px 0;margin: 0;list-style:none;
+}
+.float0831 .cn ul li {
+	border-bottom: #e6e5e4 1px solid; line-height: 36px; word-wrap: break-word; height: 36px; overflow: hidden; word-break: normal;font-size:12px;
+}
+.float0831 .titZx {
+	background: url(images/float_s.gif) no-repeat 5px -10px;
+}
+.float0831 .titDh {
+	background: url(images/float_s.gif) no-repeat 5px -66px;
+}
+.float0831 .titDc {
+	background: url(images/float_s.gif) no-repeat 5px -124px;
+}
+.float0831 .icoZx {
+	background: url(images/float_s.gif) no-repeat 2px -154px;
+}
+.float0831 .icoqq {
+	background: url(images/float_s.gif) no-repeat 0px -323px;
+}
+.float0831 .icowangwang {
+	background: url(images/wangwang.jpg) no-repeat 2px 8px ;
+}
+.float0831 .icoyahoo {
+	background: url(images/yahoo.jpg) no-repeat 2px 8px ;
+}
+.float0831 .icomsn {
+	background: url(images/msn.jpg) no-repeat 2px 8px ;
+}
+.float0831 .icoskype {
+	background: url(images/skype.jpg) no-repeat 2px 8px ;
+}
+.float0831 .icoFf {
+	background: url(images/float_s.gif) no-repeat 2px -213px;
+}
+.float0831 .icoTl {
+	background: url(images/float_s.gif) no-repeat 2px -266px;
+}
+.float0831 .btnOpen {
+	background: url(images/float_s.gif) no-repeat -30px -396px;
+}
+.float0831 .btnOpen_n {
+	background: url(images/float_s.gif) no-repeat 0px -530px;
+}
+.float0831 .btnCtn {
+	background: url(images/float_s.gif) no-repeat 0px -396px;
+}
+.float0831 .icoTl {
+	padding-left: 20px; display: block; font-family:"Microsoft YaHei","helvetica neue",Helvetica,Arial,Verdana,sans-serif;  float: left;
+}
+
+.float0831 .icoZx,.float0831 .icoqq,.float0831 .icoFf,.float0831 .icowangwang,.float0831 .icoyahoo,.float0831 .icomsn,.float0831 .icoskype {
+	padding-left: 28px; display: block; float: left;
+}
+.float0831 .btnOpen {
+	position: relative; width: 28px; height: 118px; top: 80px; left: 2px;
+}
+.float0831 .btnOpen_n {
+	position: relative; width: 28px; height: 118px; top: 80px; left: 2px;
+}
+.float0831 .btnCtn {
+	position: relative; width: 28px; height: 118px; top: 80px; left: 2px;
+}
+.float0831 .btnOpen {
+	top: 118px; left: 1px;
+}
+.float0831 .btnOpen_n {
+	top: 118px; left: 1px;
+}
+.float0831 .btnCtn {
+	top: 118px; left: 2px;
+}
+.float0831 ul li h3.titDc a {
+	width: 80px; display: block; height: 5px;
+}
+.float0831 ul li.top {
+	border-bottom: #ace5f9 1px solid;
+}
+.float0831 ul li.bot {
+	border-bottom-style: none;
+}
+.float0831 ul.webZx {
+	padding-bottom: 0px; padding-left: 0px; width: 130px; padding-right: 0px; background: url(images/right_float_web) no-repeat; height: 65px; padding-top: 0px;
+}
+.float0831 ul li.webZx-in {
+	border-bottom-style: none; padding-left: 5px; height:50px; padding-top:8px;
+}
